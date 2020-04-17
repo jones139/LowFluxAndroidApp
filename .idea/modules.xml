@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LowFluxAndroidApp.iml" filepath="$PROJECT_DIR$/LowFluxAndroidApp.iml" group="LowFluxAndroidApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/LowFluxAndroidApp-app.iml" filepath="$PROJECT_DIR$/app/LowFluxAndroidApp-app.iml" group="LowFluxAndroidApp/app" />
       <module fileurl="file://$PROJECT_DIR$/LowFluxServer.iml" filepath="$PROJECT_DIR$/LowFluxServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
